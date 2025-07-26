@@ -184,14 +184,14 @@ html body div a[title∿="Hosted"] img {
 /* index page centering elements */
 
 .hitfilm {
-  left: 40%;
+  transform: translateX(40%);
 }
 .center_element {
   width: 0;
 }
 
 .cpp {
-  right: 40%;
+  transform: translateX(-40%);
 }
 
 /* about page styles */
